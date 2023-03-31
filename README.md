@@ -2,36 +2,28 @@
 The aim of this project is to explore various strategies and technologies that can be used to protect crops from the impacts of climate change, including extreme weather conditions
 
 
-This project will helping the predicting the weather conditions like heavy rainfall accuratly (lets say before 5 days)
-and also predicts the water need for the plants on or before the extream unexpeact heavy rainfalls.
+The aim of this project is to explore various strategies and technologies that can be used to protect crops from the impacts of climate change, including extreme weather conditions.
 
+This project will helps for predicting the weather conditions like heavy rainfall (lets say before 5 days) and the amount of water needed for the crops.
 
-parameters are 
-1. expected rainfall 
-2. water needed for a plants healthy growth.
-3. how much water does the plant exactly need beforee an unexpected heavy rain conditions 
+parameters are :
 
-datasets 
-1.rainfall can be obtained from google weather api or iot devices
-2.water need for a plant can be obtained from a bolt iot
-3.water needed for the plants before a unwanted weather changes can be predicted from a trained machine learning model 
+Expected rainfall: 
 
+ 1.rainfall can be obtained from google weather API or IOT devices 
+ 2.The amount of water required for a plant can be obtained from a bolt IOT.
+ 3.The amount of water required for the plants before an unwanted weather condition can be predicted from a trained machine learning model.
 
-impact
-1. can effectivly increase the producion of the crop irrerespective of the climatic conditions
-2. increse in the quality  production yeild ofthe crop
-3. the responsible consumption and production increase which results in the agricultural sustainablility
-4. no loss of resources 
-5. incresese in employbility
+Impact:
 
+It can effectively increase the producion of the crop irrespective of the climatic conditions
+and also increases the quality in production of the yield.
+When the responsible consumption and production increases it results in the agricultural sustainablility
+and leads to no loss of resources.
+Hence, this increases the in employability.
 
-domain:
-  machine learing, iot
-Architecture:
- event driven 
- 
- Future scope
-  long term predictions
-  include the other climatic factors that effect the farmimg
-  can be further implement the quantum computing 
+Domain: machine learing, IOT Architecture: event driven
+
+Future scope:
+Our future aim is to obtain the long term predictions by including the other climatic conditions and factors that effects the farmimg which can furtherly implemented with  the help of quantum computing.
 [IMPACT OF CLIMATE ON FARMING (1).pptx](https://github.com/hema-chandrika29/impact-of-climate-on-farming/files/11123159/IMPACT.OF.CLIMATE.ON.FARMING.1.pptx)
