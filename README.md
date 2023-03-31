@@ -30,3 +30,7 @@ domain:
 Architecture:
  event driven 
  
+ Future scope
+  long term predictions
+  include the other climatic factors that effect the farmimg
+  can be further implement the quantum computing 
