@@ -34,3 +34,4 @@ Architecture:
   long term predictions
   include the other climatic factors that effect the farmimg
   can be further implement the quantum computing 
+[IMPACT OF CLIMATE ON FARMING (1).pptx](https://github.com/hema-chandrika29/impact-of-climate-on-farming/files/11123159/IMPACT.OF.CLIMATE.ON.FARMING.1.pptx)
