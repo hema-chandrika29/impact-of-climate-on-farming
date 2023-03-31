@@ -3,6 +3,30 @@ The aim of this project is to explore various strategies and technologies that c
 
 
 This project will helping the predicting the weather conditions like heavy rainfall accuratly (lets say before 5 days)
-with this project a farmer will know how much water to put in the plant on or before the extream unexpeact heavy rainfalls.
+and also predicts the water need for the plants on or before the extream unexpeact heavy rainfalls.
 
 
+parameters are 
+1. expected rainfall 
+2. water needed for a plants healthy growth.
+3. how much water does the plant exactly need beforee an unexpected heavy rain conditions 
+
+datasets 
+1.rainfall can be obtained from google weather api or iot devices
+2.water need for a plant can be obtained from a bolt iot
+3.water needed for the plants before a unwanted weather changes can be predicted from a trained machine learning model 
+
+
+impact
+1. can effectivly increase the producion of the crop irrerespective of the climatic conditions
+2. increse in the quality  production yeild ofthe crop
+3. the responsible consumption and production increase which results in the agricultural sustainablility
+4. no loss of resources 
+5. incresese in employbility
+
+
+domain:
+  machine learing, iot
+Architecture:
+ event driven 
+ 
